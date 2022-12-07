@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(224, 231, 233);
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+h1 {
+    color: rgba(100, 128, 0, 0.664);
+    font-family: 'Courier New', Courier, monospace;
+}
+.light {
+    background-color: rgb(144, 144, 179);
+    color:aqua;
+}
+.story {
+    background-color: rgb(207, 190, 173);
+    color: rgb(27, 72, 117);
+}
+h1 {
+    border-style: solid;
+    border-width: 5px;
+}
+h2 {
+    border-bottom-style: solid;
+    border-color: rgb(148, 86, 11);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    color: blueviolet;
+}
+img {
+    width: 100%;
+}
+
